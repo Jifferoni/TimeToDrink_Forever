@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: Time To Drink |cff7fc4ff(Forever)|r
+## Notes: Watches your healer's mana with a live mana bar, on-screen warnings and party alerts. Includes /ttd probe to test what WoW Forever allows.
+## Author: Jifferoni / Deedee Megadoodu
+## Version: 1.0.0-beta
+## SavedVariables: TimeToDrinkForeverDB
+## IconTexture: Interface\Icons\INV_Drink_10
+## AddonCompartmentFunc: TimeToDrinkForever_OnAddonCompartmentClick
+## AddonCompartmentFuncOnEnter: TimeToDrinkForever_OnAddonCompartmentEnter
+## AddonCompartmentFuncOnLeave: TimeToDrinkForever_OnAddonCompartmentLeave
+
+TimeToDrink_Forever.lua
